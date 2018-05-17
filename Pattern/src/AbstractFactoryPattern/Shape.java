@@ -1,7 +1,7 @@
 /**
  * 
  */
-package FactoryPattern;
+package AbstractFactoryPattern;
 
 /**
  * 图形接口 定义方法

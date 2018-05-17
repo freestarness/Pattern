@@ -1,7 +1,7 @@
 /**
  * 
  */
-package FactoryPattern;
+package AbstractFactoryPattern;
 
 /**
  * 图形接口 定义方法
@@ -9,7 +9,7 @@ package FactoryPattern;
  * @author John Doe
  * @since 2018/05/17 17:14:18
  */
-public interface Shape {
+public interface Color {
 
-	void draw();
+	void fill();
 }
