@@ -1,4 +1,4 @@
-package AbstractFactoryPattern;
+package PatternDemo.AbstractFactoryPattern;
 
 public class ColorFactory extends AbstractFactory {
 	@Override

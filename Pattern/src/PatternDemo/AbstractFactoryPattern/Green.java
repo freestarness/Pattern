@@ -1,4 +1,4 @@
-package AbstractFactoryPattern;
+package PatternDemo.AbstractFactoryPattern;
 
 public class Green implements Color {
 

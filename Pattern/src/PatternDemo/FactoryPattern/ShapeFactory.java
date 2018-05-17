@@ -1,7 +1,7 @@
-package AbstractFactoryPattern;
+package PatternDemo.FactoryPattern;
 
-public class ShapeFactory extends AbstractFactory {
-	@Override
+public class ShapeFactory {
+
 	public Shape getShape(String shapeType) {
 		if (shapeType == null) {
 			return null;
@@ -16,10 +16,5 @@ public class ShapeFactory extends AbstractFactory {
 		default:
 			return null;
 		}
-	}
-
-	@Override
-	public Color getColor(String color) {
-		return null;
 	}
 }

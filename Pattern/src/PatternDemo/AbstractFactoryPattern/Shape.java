@@ -1,7 +1,4 @@
-/**
- * 
- */
-package AbstractFactoryPattern;
+package PatternDemo.AbstractFactoryPattern;
 
 /**
  * 图形接口 定义方法
@@ -9,7 +6,7 @@ package AbstractFactoryPattern;
  * @author John Doe
  * @since 2018/05/17 17:14:18
  */
-public interface Color {
+public interface Shape {
 
-	void fill();
+	void draw();
 }

@@ -1,4 +1,4 @@
-package SingletonPattern;
+package PatternDemo.SingletonPattern;
 
 public class Demo {
 

@@ -1,7 +1,4 @@
-/**
- * 
- */
-package AbstractFactoryPattern;
+package PatternDemo.FactoryPattern;
 
 /**
  * 图形接口 定义方法

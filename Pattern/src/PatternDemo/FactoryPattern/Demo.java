@@ -1,4 +1,4 @@
-package FactoryPattern;
+package PatternDemo.FactoryPattern;
 
 public class Demo {
 
